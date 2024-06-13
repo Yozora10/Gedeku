@@ -1,4 +1,6 @@
 # Gedeku
+Nama Kelompok: Scribes
+
 Members:
 1. Jason Antonio (2331122)
 2. Monika (2331208)
